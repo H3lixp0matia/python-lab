@@ -1,0 +1,6 @@
+<?xml version="1.0" ?><root>
+		<Pracownik name="Mateusz Kaleta">
+		<Wiek>22</Wiek>
+		<Zawod>student</Zawod>
+		</Pracownik>
+	<Pracownik Rok urodzenia="1998" Miasto="Krakow"/></root>

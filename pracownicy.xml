@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+	<root>
+		<Pracownik name="Mateusz Kaleta">
+		<Wiek>22</Wiek>
+		<Zawod>student</Zawod>
+		</Pracownik>
+	</root>
